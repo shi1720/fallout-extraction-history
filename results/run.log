@@ -1,0 +1,65 @@
+{
+  "n": 16,
+  "mean_percent": 86.62079136151152,
+  "sample_sd_percent": 8.810867978528353,
+  "population_sd_percent": 8.531086236618131,
+  "min_percent": 66.66666666666666,
+  "max_percent": 101.49253731343283,
+  "ratio_of_sums_percent": 88.75278396436525,
+  "n_below_fusion": 14,
+  "models": {
+    "affine": {
+      "intercept": -2.3249842189598997,
+      "slope": 0.9289529482220027,
+      "x_intercept": 2.502800839816347,
+      "sse": 371.47224155512026
+    },
+    "proportional": {
+      "fraction": 0.8972450870212314,
+      "sse": 391.7602587856514
+    },
+    "additive": {
+      "loss": 6.3125,
+      "sse": 449.4375
+    }
+  },
+  "minimum_tolerance": {
+    "proportional": 0.10468510047076963,
+    "additive": 0.09090909090909091
+  },
+  "interval_at_10_percent": {
+    "proportional": [
+      0.830393487109905,
+      0.8148148148148149
+    ],
+    "additive": [
+      3.5,
+      4.000000000000002
+    ]
+  },
+  "rounding_witness": {
+    "target_sse": 359,
+    "max_hcl_adjustment": 0.17538124150627254,
+    "sse_recomputed": 358.9999999999998
+  },
+  "site10_ratio_range_under_half_unit_rounding": [
+    62.7906976744186,
+    70.73170731707317
+  ],
+  "leave_one_out": {
+    "x_intercept_range": [
+      1.2801927023125292,
+      3.7814152966404464
+    ],
+    "prediction_rmse": {
+      "affine": 5.666817176263354,
+      "proportional": 5.583046780442709,
+      "additive": 5.653317610041028
+    }
+  },
+  "software": {
+    "python": "3.9.6",
+    "numpy": "1.26.4",
+    "matplotlib": "3.9.4"
+  }
+}

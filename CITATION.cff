@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the research manuscript and artifact when reusing this reconstruction."
+title: "What Should the Acid Leave Behind? Resin, Soil, and the Repair of Fallout Measurements, 1960–1961"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+version: 1.0.0
+date-released: 2026-10-16
+url: "https://github.com/shi1720/fallout-extraction-history"
+repository-code: "https://github.com/shi1720/fallout-extraction-history"
+type: software
+license: MIT

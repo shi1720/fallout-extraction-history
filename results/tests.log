@@ -1,0 +1,14 @@
+test_invalid_tolerance (test_reanalysis.ReanalysisTests) ... ok
+test_known_tolerance_boundaries (test_reanalysis.ReanalysisTests) ... ok
+test_printed_ratios (test_reanalysis.ReanalysisTests) ... ok
+test_randomized_against_independent_lp (test_reanalysis.ReanalysisTests) ... ok
+test_range_discrepancy_survives_rounding (test_reanalysis.ReanalysisTests) ... ok
+test_regression_normal_equations (test_reanalysis.ReanalysisTests) ... ok
+test_rounding_can_explain_historical_sse (test_reanalysis.ReanalysisTests) ... ok
+test_source_enumeration (test_reanalysis.ReanalysisTests) ... ok
+test_ten_percent_compatibility (test_reanalysis.ReanalysisTests) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.271s
+
+OK

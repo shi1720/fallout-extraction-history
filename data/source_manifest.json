@@ -1,0 +1,44 @@
+[
+  {
+    "id": "HASL-105",
+    "url": "https://digital.library.unt.edu/ark:/67531/metadc13063/m2/1/high_res_d/HASL-105.pdf",
+    "accessed": "2026-10-16",
+    "sha256": "f2a03ec8c525c00959c566097415fecf8e8d8a199f8cd30fca8c2bc8e18037bd",
+    "printed_pages_read_for_core_claims": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "HASL-113",
+    "url": "https://digital.library.unt.edu/ark:/67531/metadc13065/m2/1/high_res_d/HASL-113.pdf",
+    "accessed": "2026-10-16",
+    "sha256": "79e8d4b6786ebc112e1d8c963023dd0c5b5b72e327a1653845e45f94b5bf9bc4",
+    "printed_pages_read_for_core_claims": [
+      2,
+      3,
+      75,
+      76,
+      81,
+      82,
+      97,
+      98,
+      99,
+      100
+    ]
+  },
+  {
+    "id": "Chadarevian2024",
+    "url": "https://wp.lifesci.ucla.edu/isg/wp-content/uploads/sites/34/2025/04/Collecting-data-on-a-global-scale-statsoc-2468.pdf",
+    "accessed": "2026-10-16",
+    "sha256": "047da1f7fbc83542fd3b48be8163aad727d2500384f6e97912710e026eb4859b",
+    "printed_pages_read_for_core_claims": []
+  },
+  {
+    "id": "UNSCEAR1962-F",
+    "url": "https://www.unscear.org/unscear/uploads/documents/publications/UNSCEAR_1962_Annex-F.pdf",
+    "accessed": "2026-10-16",
+    "sha256": "2cd0dc9acaeaf1b17f998a20f51f337789cb794a2ea23bfaf109ef3fe8435b88",
+    "printed_pages_read_for_core_claims": []
+  }
+]

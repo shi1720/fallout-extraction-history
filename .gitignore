@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+work/
+*.aux
+*.log
+*.out
+*.xdv
+!results/tests.log
+!results/run.log
